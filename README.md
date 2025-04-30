@@ -1,2 +1,2 @@
-Kenneth Galvez 20079 
-Gonzalo Santizo 21504 
+- Kenneth Galvez 20079 
+- Gonzalo Santizo 21504 
